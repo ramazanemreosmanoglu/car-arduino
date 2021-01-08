@@ -3,7 +3,7 @@
  * 
  * github.com/ramazanemreosmanoglu
  * t.me/RamazanEmre
- * ramazanemreosmanoglu@gmail.com
+ * ramazanemre@pm.me
  * 
  */
 
